@@ -1,0 +1,14 @@
+[
+  {
+    "idAluno": 979,
+    "boletins": [
+      {
+        "av1": 1.0,
+        "av2": 3.0,
+        "idDisciplina": 817
+      }
+    ],
+    "nome": "dfsew",
+    "cpf": "1213"
+  }
+]
